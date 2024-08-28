@@ -1,2 +1,3 @@
-# SecondRepo
-This is my SecondRepo that is created straight on the GitHub server
+# HackerRank-MySql_Basic-Solution
+
+<h1>My Certificate </h1> <a href="https://www.hackerrank.com/certificates/d3ae0da778ba" ></a>
